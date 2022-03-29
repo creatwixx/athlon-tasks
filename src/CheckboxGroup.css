@@ -1,0 +1,8 @@
+.checkbox-group {
+  display: flex;
+  flex-direction: column;
+}
+
+.checkbox-group.inline {
+  flex-direction: row;
+}
